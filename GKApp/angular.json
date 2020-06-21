@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GKApp"
+    }
+  },
+  "defaultProject": "GKApp",
+  "cli": {
+    "analytics": false
+  }
 }
